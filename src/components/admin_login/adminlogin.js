@@ -37,7 +37,7 @@ const Adminlogin = ({onLogin}) => {
     <div className='inline-block rounded-lg border border-gray-300 ml-[38%] mt-[12%]'>
         <div className='flex flex-col items-center bg-gray-200 pt-7 pb-4 rounded-lg'>
             <h1 className='text-2xl mb-3'>Login Administrator</h1>
-            <h1>Keemti Backend</h1>
+            <h1>Kymtee Backend</h1>
         </div>
         <div className='flex flex-col'>
             <label htmlFor="" className='mt-6 ml-3 mr-3 font-semibold'>Username:</label>
